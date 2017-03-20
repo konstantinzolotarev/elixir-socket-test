@@ -1,4 +1,4 @@
-# DubtrackWsElixir
+# Elixir WS Test
 
 To start your Phoenix app:
 
